@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Undercover Martyn",
+  "base_artist": "Two Door Cinema Club",
+  "createdAt": "2026-03-08T18:46:30.442136Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Undercover Martyn",
+      "artist": "Two Door Cinema Club",
+      "has_synced": true,
+      "path": "select/01_Undercover_Martyn_Two_Door_Cinema_Club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Undercover Martyn - Jupiter remix",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/02_Undercover_Martyn_-_Jupiter_remix_Two_Door_Cinema_Club.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Undercover Martyn (Jupiter Remix)",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/03_Undercover_Martyn_(Jupiter_Remix)_Two_Door_Cinema_Club.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Undercover Martyn - Softwar remix",
+      "artist": "Two Door Cinema Club",
+      "has_synced": true,
+      "path": "select/04_Undercover_Martyn_-_Softwar_remix_Two_Door_Cinema_Club.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Undercover Martyn",
+      "artist": "Two Door Cinema Club",
+      "has_synced": true,
+      "path": "select/05_Undercover_Martyn_Two_Door_Cinema_Club.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Undercover Martyn - Live at Brixton Academy London 2012",
+      "artist": "Two Door Cinema Club",
+      "has_synced": true,
+      "path": "select/06_Undercover_Martyn_-_Live_at_Brixton_Academy_London_2012_Two_Door_Cinema_Club.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Undercover Martyn (Live at Brixton Academy, London, 2012)",
+      "artist": "Two Door Cinema Club",
+      "has_synced": true,
+      "path": "select/07_Undercover_Martyn_(Live_at_Brixton_Academy,_London,_2012)_Two_Door_Cinema_Club.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Undercover Martyn - Live",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/08_Undercover_Martyn_-_Live_Two_Door_Cinema_Club.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Undercover Martyn (Passion Pit Remix)",
+      "artist": "Two Door Cinema Club",
+      "has_synced": true,
+      "path": "select/09_Undercover_Martyn_(Passion_Pit_Remix)_Two_Door_Cinema_Club.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Undercover Martyn (Softwar remix)",
+      "artist": "Two Door Cinema Club",
+      "has_synced": true,
+      "path": "select/10_Undercover_Martyn_(Softwar_remix)_Two_Door_Cinema_Club.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Undercover Martyn (Softwar remix)",
+      "artist": "Two Door Cinema Club",
+      "has_synced": true,
+      "path": "select/11_Undercover_Martyn_(Softwar_remix)_Two_Door_Cinema_Club.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Undercover Martyn (Whatever/Whatever remix)",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/12_Undercover_Martyn_(Whatever_Whatever_remix)_Two_Door_Cinema_Club.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Undercover Martyn",
+      "artist": "Two Door Cinema Club",
+      "has_synced": true,
+      "path": "select/13_Undercover_Martyn_Two_Door_Cinema_Club.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Undercover Martyn - Whatever/Whatever remix",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/14_Undercover_Martyn_-_Whatever_Whatever_remix_Two_Door_Cinema_Club.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Undercover Martyn",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/pl_01_Undercover_Martyn_Two_Door_Cinema_Club.txt"
+    }
+  ]
+}
